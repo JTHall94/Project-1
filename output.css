@@ -1,11 +1,11 @@
 @charset "UTF-8";
 .Michael {
   height: 450px;
-  width: 350px;
+  width: auto;
 }
 
 body {
-  color: #f4f7f7;
+  color: #2EC4B6;
   background-color: #79a8a9;
 }
 
