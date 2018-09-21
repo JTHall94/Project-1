@@ -8627,6 +8627,11 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
+a {
+  color: #fff;
+  text-decoration: underline;
+}
+
 .nav-item, .nav-link, .nav {
   font-family: "Arimo", sans-serif;
   color: #f1404b;
