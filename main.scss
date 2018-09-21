@@ -1,3 +1,23 @@
+$back-color: #79a8a9;
+$main-font: #f4f7f7;
+$heading-color: #1f4e5f;
+
+
+
+.Michael {
+  height: 450px;
+  width: 350px;
+}
+
+body {
+  color: $main-font;
+  background-color: $back-color;
+}
+
+h1, h2, h3, h4 {
+
+  color: $heading-color;
+}
 
 
 

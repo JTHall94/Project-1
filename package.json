@@ -1,0 +1,25 @@
+{
+  "name": "project-1",
+  "version": "1.0.0",
+  "description": "Create a website promoting your favorite FICTIONAL character from a book, TV show, movie, or graphic novel who is running for the elected position of Constable in your magistrate district of Fayette County. (There are 3 such districts.)",
+  "main": "main.js",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "browser-sync": "^2.24.7",
+    "sass": "^1.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JTHall94/Project-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JTHall94/Project-1/issues"
+  },
+  "homepage": "https://github.com/JTHall94/Project-1#readme"
+}
