@@ -8627,6 +8627,11 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
+.nav-item, .nav-link, .nav {
+  font-family: "Arimo", sans-serif;
+  color: #f1404b;
+}
+
 h1, h2, h3 {
   font-family: "Arimo", sans-serif;
   color: #f1404b;
@@ -8642,6 +8647,11 @@ blockquote p {
 }
 
 h1 {
+  text-align: center;
+}
+
+.alert {
+  margin-top: 3em;
   text-align: center;
 }
 

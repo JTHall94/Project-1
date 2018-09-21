@@ -57,6 +57,11 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
+.nav-item, .nav-link, .nav {
+  font-family:  'Arimo', sans-serif;
+  color: $info;
+}
+
 h1, h2, h3 {
   font-family: 'Arimo', sans-serif;
   color: $info;
@@ -73,5 +78,10 @@ blockquote p {
 
 h1 {
 
+  text-align: center;
+}
+
+.alert {
+  margin-top: 3em;
   text-align: center;
 }
